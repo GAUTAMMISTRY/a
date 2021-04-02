@@ -7,3 +7,9 @@
 _______________________________________________________
 
 Copy selection from any website with one click.
+
+Stackover flowcode Copy stackcopy:
+![StackOverflow](/screenshots/stackover_flowcode_copy.png)
+
+Wiki content copy:
+![CodeGolf](/screenshots/wiki_content_copy.png)
